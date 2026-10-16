@@ -15,7 +15,6 @@ Topics Covered
 9. Type Casting
 10. Constants
 
-Goal
-
+Goal:
 To build a strong foundation in C++ before moving on to Data Structures and Algorithms.
 Language : C++
